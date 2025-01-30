@@ -1,28 +1,26 @@
 # Challenge Oracle Sorteador de Nomes
-Desafio de amigo secreto emelaborado em JavaScript.
-
 
 🎁 Amigo Secreto
 
-Um projeto do Challenge Amigo Secreto da Alura em Parceria com a Oracle desenvolvido em  em HTML, CSS e JavaScript com base no que foi estudado nos modulos anteriores para realizar sorteios de amigo secreto de forma interativa.
+  Um projeto do Challenge Amigo Secreto da Alura em Parceria com a Oracle desenvolvido em  em HTML, CSS e JavaScript com base no que foi estudado nos modulos anteriores para realizar sorteios de amigo secreto de forma   interativa.
 
 📌 Funcionalidades
 
-Adicionar nomes à lista de participantes.
+ • Adicionar nomes à lista de participantes.
 
-Exibir a lista de amigos cadastrados.
+ • Exibir a lista de amigos cadastrados.
 
-Sortear aleatoriamente um amigo secreto.
+ • Sortear aleatoriamente um amigo secreto.
 
-Exibir o nome sorteado na tela.
+ • Exibir o nome sorteado na tela.
 
 🚀 Tecnologias Utilizadas
 
-HTML5: Estrutura da página.
+ • HTML5: Estrutura da página.
 
-CSS3: Estilização e layout.
+ • CSS3: Estilização e layout.
 
-JavaScript: Manipulação da DOM e lógica do sorteio.
+ • JavaScript: Manipulação da DOM e lógica do sorteio.
 
 📂 Estrutura do Projeto
 
@@ -34,29 +32,29 @@ JavaScript: Manipulação da DOM e lógica do sorteio.
 
 📋 Pré-requisitos
 
-Para executar o projeto, basta um navegador moderno (Google Chrome, Mozilla Firefox, Edge, etc.).
+• Para executar o projeto, basta um navegador moderno (Google Chrome, Mozilla Firefox, Edge, etc.).
 
 ▶️ Como Usar
 
-Abra o arquivo index.html no navegador.
+• Abra o arquivo index.html no navegador.
 
-Digite os nomes dos amigos no campo de entrada.
+• Digite os nomes dos amigos no campo de entrada.
 
-Clique em "Adicionar" para inserir um novo amigo à lista.
+• Clique em "Adicionar" para inserir um novo amigo à lista.
 
-Após adicionar todos os participantes, clique no botão "Sortear amigo".
+• Após adicionar todos os participantes, clique no botão "Sortear amigo".
 
-O nome sorteado será exibido na tela.
+• O nome sorteado será exibido na tela.
 
 💡 Melhorias Futuras
 
-Implementação de um sistema para garantir que ninguém se sorteie a si mesmo.
+• Implementação de um sistema para garantir que ninguém se sorteie a si mesmo.
 
-Funcionalidade para remover nomes da lista.
+• Funcionalidade para remover nomes da lista.
 
-Compartilhamento do sorteio via link ou WhatsApp.
+• Compartilhamento do sorteio via link ou WhatsApp.
 
-Melhorias no design e experiência do usuário.
+• Melhorias no design e experiência do usuário.
 
 📜 Licença
 
